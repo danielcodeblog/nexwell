@@ -1,0 +1,6 @@
+{
+  "name": "Nexwell — Daily Synbiotic & Wellness Nutrition",
+  "description": "Clean supplements thoughtfully formulated for everyday health, balance, and wellbeing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
